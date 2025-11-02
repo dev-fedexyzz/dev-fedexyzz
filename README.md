@@ -32,12 +32,15 @@ Hola, Me llamo fede, Estoy Apasionado con los bots aun sigo aprendiendo.
 *🛠️ Tecnologías favoritas*
 
 ```
-- _javaScript / html_
+- javaScript / html
 ```
 
 ---
 
 *🌐 Redes y contacto*
+
 [*Instagram*](https://instagram.com/Dev-fedexyz13)
+
 [*WhatsApp*](https://wa.me/5491130964777)
+
 [*github*](https://github.com/dev-fedexyzz)
