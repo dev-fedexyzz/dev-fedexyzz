@@ -4,12 +4,13 @@
 Hola, Me llamo fede, Estoy Apasionado con los bots aun sigo aprendiendo.
 ```
 
+
 ---
 
 *🌾 Tarjeta de presentación*
 
 <a href="https://github.com/dev-fedexyzz">
-  <img src="https://cardivo.vercel.app/api?name=dev-fedexyzz&description=Creador+de+Bots+y-editor+de+Bots+xd%7C&image=https://files.catbox.moe/c65bk7.jpg&backgroundColor=%23ecf0f1&instagram=dev-fedexyz13&whatsapp=dev-fedexyzz&pattern=leaf&colorPattern=%23eaeaea" />
+  <img src="https://cardivo.vercel.app/api?name=dev-fedexyzz&description=Creador+de+Bots+y-editor+de+Bots+xd+🌾%7C&image=https://files.catbox.moe/c65bk7.jpg&backgroundColor=%23ecf0f1&instagram=dev-fedexyz13&whatsapp=dev-fedexyzz&pattern=leaf&colorPattern=%23eaeaea" />
 </a>
 
 ---
@@ -31,7 +32,7 @@ Hola, Me llamo fede, Estoy Apasionado con los bots aun sigo aprendiendo.
 *🛠️ Tecnologías favoritas*
 
 ```
-- JavaScript / html 
+- _javaScript / html_
 ```
 
 ---
