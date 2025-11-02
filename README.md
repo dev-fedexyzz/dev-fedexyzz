@@ -37,10 +37,9 @@ Hola, Me llamo fede, Estoy Apasionado con los bots aun sigo aprendiendo.
 
 ---
 
-*🌐 Redes y contacto*
+*📚 Redes y contacto*
+🌾 [*Instagram*](https://instagram.com/Dev-fedexyz13)
 
-[*Instagram*](https://instagram.com/Dev-fedexyz13)
+🪐 [*WhatsApp*](https://wa.me/5491130964777)
 
-[*WhatsApp*](https://wa.me/5491130964777)
-
-[*github*](https://github.com/dev-fedexyzz)
+🌵 [*github*](https://github.com/dev-fedexyzz)
