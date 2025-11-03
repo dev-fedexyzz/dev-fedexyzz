@@ -32,7 +32,7 @@
 
 ```
 - JavaScript
-- Node.js (aprendiendo)
+- Node.js (En proceso)
 - Html APIs (experimentando)
 ```
 
