@@ -32,6 +32,7 @@ Puedes encontrarme o contactarme a través de las siguientes plataformas:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fedexyzz&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+<img src="https://ghchart.rshah.org/00FF41/dev-fedexyzz" alt="Contribuciones GitHub" width="600"/>
 
 ---
 
