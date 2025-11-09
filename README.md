@@ -32,6 +32,13 @@ Puedes encontrarme o contactarme a través de las siguientes plataformas:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fedexyzz&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+## Github Stats  
+
+<div align="center"><img src="https://count.getloli.com/@ztrdiamond?name=ztrdiamond&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center"></div>
+
+<br/>
+
 <img src="https://ghchart.rshah.org/00FF41/dev-fedexyzz" alt="Contribuciones GitHub" width="600"/>
 
 ---
