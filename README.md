@@ -4,11 +4,13 @@
 🤖 Me llamo fede. Soy un entusiasta de la programación de bots y la edición de scripts. Aún en proceso de aprendizaje, pero con muchas ganas de seguir creciendo y explorando el desarrollo web y backend.
 ```
 ---
+
 <p align="center">
   <a href="https://github.com/dev-fedexyzz">
     <img src="https://komarev.com/ghpvc/?username=dev-fedexyzz&style=for-the-badge&label=☆+VISTAS&color=6e57ff" alt="dev-fedexyzz" />
   </a>
 </p>
+
 ---
 
 *🌿 Tarjeta de Presentación*
