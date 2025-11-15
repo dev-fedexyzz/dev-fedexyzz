@@ -6,7 +6,7 @@
 ---
 <p align="center">
   <a href="https://github.com/dev-fedexyzz">
-    <img src="https://komarev.com/ghpvc/?username=dev-fedexyzz&style=for-the-badge&label=☆ VISTAS&color=6e57ff" alt="dev-fedexyzz" />
+    <img src="https://komarev.com/ghpvc/?username=dev-fedexyzz&style=for-the-badge&label=☆+VISTAS&color=6e57ff" alt="dev-fedexyzz" />
   </a>
 </p>
 ---
