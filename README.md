@@ -39,7 +39,10 @@ Puedes encontrarme o contactarme a través de las siguientes plataformas:
 
 <br/>
 
-<img src="https://ghchart.rshah.org/00FF41/dev-fedexyzz" alt="Contribuciones GitHub" width="600"/>
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
 
 ---
 
