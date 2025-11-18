@@ -1,8 +1,13 @@
 *🚀 Bienvenido al perfil de Fede*
 
-```bash
-🤖 Me llamo fede. Soy un entusiasta de la programación de bots y la edición de scripts. Aún en proceso de aprendizaje, pero con muchas ganas de seguir creciendo y explorando el desarrollo web y backend.
+*🧑‍💻 SOBRE MÍ*
+
 ```
+Hola 🌱,
+Me llamo Fede. Soy un entusiasta de la programación de bots y la edición de scripts. Aún estoy en proceso de aprendizaje, pero tengo muchas ganas de seguir creciendo y explorando el desarrollo web y backend.
+Me inspiran otros bots y proyectos que demuestran cómo la automatización puede ser creativa, útil y sorprendentemente humana. Cada línea de código que escribo es una oportunidad para aprender algo nuevo y acercarme a construir herramientas que realmente marquen la diferencia.
+```
+
 ---
 
 <p align="center">
