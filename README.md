@@ -2,6 +2,7 @@
 
 *🧑‍💻 SOBRE MÍ*
 
+
 ```
 Hola 🌱,
 Me llamo Fede. Soy un entusiasta de la programación de bots y la edición de scripts. Aún estoy en proceso de aprendizaje, pero tengo muchas ganas de seguir creciendo y explorando el desarrollo web y backend.
